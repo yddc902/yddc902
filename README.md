@@ -18,4 +18,9 @@
 <br />
 
 <!-- YOUTUBE:START -->
+- [LIVE: Responsive UI Designing using Bootstrap | HTML | CSS | Yash Desai | 02 Aug 2020](https://www.youtube.com/watch?v=6LD-5bjcbkA)
+- [Working With Parameters Using POST Method | Servlet and JSP #04](https://www.youtube.com/watch?v=KbqVH12CVwY)
+- [Working With Parameters Using GET Method | Servlet and JSP #03 working with parameter   get method](https://www.youtube.com/watch?v=99Vxo9hf2Io)
+- [Hello World in Servlet | Servlet and JSP - #002](https://www.youtube.com/watch?v=93r6KLwe3ek)
+- [Prerequisites for Servlets | Servlets and JSP #01](https://www.youtube.com/watch?v=h2Rf4ey4X10)
 <!-- YOUTUBE:END -->
