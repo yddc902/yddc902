@@ -23,9 +23,9 @@
 ### [My Youtube Videos - Yash's Code Camp](https://www.youtube.com/channel/UC_gFyrE-MyV6tcCkof6Igpw?view_as=subscriber)
 
 <!-- YOUTUBE:START -->
+- [Servlet and JSP for Beginners : Part - 1 | Requirements and Settings | Hindi](https://www.youtube.com/watch?v=1d8pPRT5YZY)
+- [Servlet and JSP for Beginners : Part - 2 | Directory Structure | Hindi](https://www.youtube.com/watch?v=aJGsQv6AI7c)
+- [Servlet and JSP for Beginners : Part - 3 | Servlet - Hello World | Hindi](https://www.youtube.com/watch?v=WC5tBHHwFmU)
 - [PHP | MySQLi | CRUD | With Bootstrap | For Absolute Beginners | Speed Code](https://www.youtube.com/watch?v=KPXOVGsgrs0)
 - [Working With Parameters Using POST Method | Servlet and JSP #04](https://www.youtube.com/watch?v=KbqVH12CVwY)
-- [Working With Parameters Using GET Method | Servlet and JSP #03 working with parameter   get method](https://www.youtube.com/watch?v=99Vxo9hf2Io)
-- [Hello World in Servlet | Servlet and JSP - #002](https://www.youtube.com/watch?v=93r6KLwe3ek)
-- [Prerequisites for Servlets | Servlets and JSP #01](https://www.youtube.com/watch?v=h2Rf4ey4X10)
 <!-- YOUTUBE:END -->
